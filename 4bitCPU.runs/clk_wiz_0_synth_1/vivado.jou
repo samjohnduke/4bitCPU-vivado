@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 19:59:23 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Wed Mar 22 21:02:57 2023
+# Process ID: 1090069
+# Current directory: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/clk_wiz_0_synth_1
+# Command line: vivado -log clk_wiz_0.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source clk_wiz_0.tcl
+# Log file: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/clk_wiz_0_synth_1/clk_wiz_0.vds
+# Journal file: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/clk_wiz_0_synth_1/vivado.jou
+# Running On: bad-hippo, OS: Linux, CPU Frequency: 3700.328 MHz, CPU Physical cores: 16, Host memory: 33553 MB
+#-----------------------------------------------------------
+source clk_wiz_0.tcl -notrace

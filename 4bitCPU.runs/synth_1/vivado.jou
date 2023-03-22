@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.2.2 (64-bit)
+# SW Build 3788238 on Tue Feb 21 19:59:23 MST 2023
+# IP Build 3783773 on Tue Feb 21 23:41:56 MST 2023
+# Start of session at: Wed Mar 22 21:04:53 2023
+# Process ID: 1090696
+# Current directory: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/synth_1
+# Command line: vivado -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/synth_1/top.vds
+# Journal file: /home/sam/Development/hardware/4bitCPU/4bitCPU.runs/synth_1/vivado.jou
+# Running On: bad-hippo, OS: Linux, CPU Frequency: 3871.975 MHz, CPU Physical cores: 16, Host memory: 33553 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
